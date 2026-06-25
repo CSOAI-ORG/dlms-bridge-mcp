@@ -1,0 +1,2 @@
+# dlms-bridge-mcp
+# CSOAI Layer-0 legacy-bridge. Bridge DLMS/COSEM smart-meter + energy data to ONE OS — parse, map, govern (IEC 62056 / NIS2 / GDPR).

@@ -1,0 +1,7 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "io.github.CSOAI-ORG/dlms-bridge-mcp",
+  "description": "Bridge DLMS/COSEM smart-meter + energy data to ONE OS — parse, map, govern (IEC 62056 / NIS2 / GDPR).",
+  "version": "0.1.0",
+  "packages": [{"registryType": "pypi", "identifier": "dlms-bridge-mcp", "version": "0.1.0", "runtimeHint": "python", "transport": {"type": "stdio"}}]
+}
